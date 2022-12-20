@@ -1,4 +1,4 @@
-![](logo.png)
+# ![](logo.png)
 
 talk.manageiq.org has been replaced by [GitHub Discussions](https://github.com/ManageIQ/manageiq/discussions). Please start any new discussions there.
 
